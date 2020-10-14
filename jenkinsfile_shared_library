@@ -1,3 +1,3 @@
 #! usr/bin/env groovy
-@Library('roche_shared_library#training')_
+@Library('roche_shared_library@training')_
 build()
